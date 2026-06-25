@@ -25,3 +25,31 @@ Duration: First Six Weeks
 18.Overall Learnings      
 19.Future Work    
 20.Conclusion    
+# 1. Introduction    
+The objective of this project was to develop a strong foundation in Data Structures and Algorithms (DSA), which are fundamental to software engineering, competitive programming, and technical interviews. During the first six weeks, I focused on learning the core concepts, understanding the mathematical intuition behind algorithms, and solving problems using optimized approaches.    
+Instead of memorizing solutions, I concentrated on understanding patterns that appear repeatedly across different problems. Every topic was studied theoretically before implementation, followed by solving problems of increasing difficulty.    
+The project emphasized algorithm analysis, optimization techniques, and selecting the appropriate data structure based on problem constraints.
+
+# 2. Project Objectives    
+The major objectives of this project were:
+Develop analytical thinking.
+Learn commonly used data structures.
+Understand algorithm design techniques.
+Improve problem-solving efficiency.
+Analyze time and space complexity.
+Learn optimization strategies.
+Build a strong base for advanced DSA topics.
+
+3. Learning Methodology
+For every topic, I followed a structured learning process:
+Study the theory.
+Understand the brute-force solution.
+Identify its limitations.
+Derive an optimized approach.
+Analyze complexity.
+Implement the algorithm in C++.
+Solve multiple practice problems.
+Review mistakes and optimize further.
+This approach helped me understand not only how an algorithm works but also why it is efficient.
+
+
