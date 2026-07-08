@@ -1,4 +1,4 @@
-# SOC-26-project-31-24B0326
+# SOC-26-DSA-Midterm
 # MIDTERM PROJECT REPORT -(Project id-31)
 Data Structures and Algorithms Learning Report (First Six Weeks)    
 Name: Anshika(24b0326)       
